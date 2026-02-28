@@ -2,7 +2,7 @@
 // @name         bỏ qua robot
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Tự động bỏ disabled của nút captcha
+// @description  Tự động bỏ xác minh
 // @author       You
 // @match        *://*/*
 // @grant        none
