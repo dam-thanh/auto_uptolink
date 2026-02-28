@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         bỏ qua captcha (Remote Control)
+// @name         bỏ qua captcha 
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  bỏ qua captcha có bật/tắt từ GitHub
+// @description  
 // @author       You
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
